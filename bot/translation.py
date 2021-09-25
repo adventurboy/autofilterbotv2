@@ -18,8 +18,6 @@ class Translation(object):
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
-For more moves click...
-@Popcorn_group
 <i>"""
 -> Add Me To Any Group And Make Me Admin
 -> Add Me To Your Desired Channel
