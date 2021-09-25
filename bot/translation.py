@@ -19,8 +19,8 @@ class Translation(object):
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
 <i>"""
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+->Add Me To Any Group And Make Me Admin
+->Add Me To Your Desired Channel
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
