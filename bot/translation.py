@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @ADMOVEIAD
+# (c) @AlbertEinsteinTG @Popcorn_group
 
 class Translation(object):
     
