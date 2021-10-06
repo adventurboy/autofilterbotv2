@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👨‍💼 𝙼𝚊𝚜𝚝𝚎𝚛', url='https://t.me/noufalpowerbot'),
+        InlineKeyboardButton('👨‍💼noob dev', url='https://t.me/noufalpowerbot'),
         InlineKeyboardButton('𝙷𝚎𝚕𝚙 🤔', callback_data="help")
     ],[
         InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/uAHl5jvnrhk')
